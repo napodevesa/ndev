@@ -1,1 +1,1 @@
-# ndev: https://napodevesa.github.io/ndev/.
+# ndev: https://napodevesa.github.io/ndev/
